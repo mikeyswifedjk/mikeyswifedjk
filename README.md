@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://mikeyswifedjk.netlify.app/](https://mikeyswifedjk.netlify.app/)
 
-- 📫 How to reach me **ybiza2018@gmail.com | 0922-504-9004**
+- 📫 How to reach me **ybiza2018@gmail.com**
 
 <h3 align="left">About Me:</h3>
 <p align="left">
