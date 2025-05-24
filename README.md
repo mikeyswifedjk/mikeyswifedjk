@@ -3,7 +3,7 @@
 <h1 align="center">Hello, I'm Maika 👋</h1>
 <h3 align="center">Turning data into decisions and code into solutions</h3>
 
-- 👨‍💻 All of my projects are available at [https://mikeyswifedjk.netlify.app/](https://mikeyswifedjk.netlify.app/)
+- 👨‍💻 All of my projects are available at https://maikaybiza.netlify.app/
 
 - 📫 How to reach me **ybiza2018@gmail.com**
 
